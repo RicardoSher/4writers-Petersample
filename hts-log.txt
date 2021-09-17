@@ -1,0 +1,156 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 16 Sep 2021 17:28:21 at https://4writers.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://4writers.net/ -O1 "C:\My Web Sites\4writers" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:28:23	Warning: 	Note: due to https://4writers.net remote robots.txt rules, links beginning with these path will be forbidden: /login/, /password/, /policies/, /profile/, /support/, /classic/, /editor-registration/, /new-policy/, /blog/wp-content/themes/, /blog/wp-content/plugins/, /blog/wp-includes/, /blog/topic/, /blog/tag/, /blog/2009/, /blog/2010/, /blog/2011/, /blog/2012/, /blog/2013/, /blog/2014/, /blog/2015/, /blog/2016/, /blog/2017/, /blog/2018/, /blog/2019/, /blog/2020/ (see in the options to disable this)
+17:29:31	Warning: 	Note: due to 4writers.net remote robots.txt rules, links beginning with these path will be forbidden: /login/, /password/, /policies/, /profile/, /support/, /classic/, /editor-registration/, /new-policy/, /blog/wp-content/themes/, /blog/wp-content/plugins/, /blog/wp-includes/, /blog/topic/, /blog/tag/, /blog/2009/, /blog/2010/, /blog/2011/, /blog/2012/, /blog/2013/, /blog/2014/, /blog/2015/, /blog/2016/, /blog/2017/, /blog/2018/, /blog/2019/, /blog/2020/ (see in the options to disable this)
+17:38:05	Error: 	"Not Found" (404) at link 4writers.net/images/640-our-team.png (from 4writers.net/files/style.min.css?1613129287)
+17:38:05	Error: 	"Not Found" (404) at link https://4writers.net/c/ (from https://connect.facebook.net/en_US/fbevents.js)
+17:38:05	Error: 	"Not Found" (404) at link https://4writers.net/b/ (from https://connect.facebook.net/en_US/fbevents.js)
+17:38:05	Error: 	"Not Found" (404) at link https://4writers.net/POST/ (from https://connect.facebook.net/en_US/fbevents.js)
+17:38:05	Error: 	"Not Found" (404) at link 4writers.net/about-us/manifest.json (from 4writers.net/about-us/)
+17:38:05	Error: 	"Not Found" (404) at link 4writers.net/about-us/files/icons/icon-192x192.png (from 4writers.net/about-us/)
+17:38:05	Error: 	"Not Found" (404) at link 4writers.net/prices/manifest.json (from 4writers.net/prices/)
+17:38:05	Error: 	"Not Found" (404) at link 4writers.net/prices/files/icons/icon-192x192.png (from 4writers.net/prices/)
+17:38:05	Error: 	"Not Found" (404) at link 4writers.net/how-we-work/manifest.json (from 4writers.net/how-we-work/)
+17:38:05	Error: 	"Not Found" (404) at link 4writers.net/how-we-work/files/icons/icon-192x192.png (from 4writers.net/how-we-work/)
+17:38:05	Error: 	"Not Found" (404) at link 4writers.net/latest-orders/manifest.json (from 4writers.net/latest-orders/)
+17:38:05	Error: 	"Not Found" (404) at link 4writers.net/latest-orders/files/icons/icon-192x192.png (from 4writers.net/latest-orders/)
+17:42:04	Warning: 	Moved Permanently for https://4writers.net/blog/?p=2706
+17:42:04	Warning: 	File has moved from https://4writers.net/blog/?p=2706 to https://4writers.net/blog/importance-of-conclusion-in-academic-writing/
+17:42:04	Error: 	"Not Found" (404) at link 4writers.net/advantages/manifest.json (from 4writers.net/advantages/)
+17:42:04	Error: 	"Not Found" (404) at link 4writers.net/advantages/files/icons/icon-192x192.png (from 4writers.net/advantages/)
+17:42:04	Error: 	"Not Found" (404) at link 4writers.net/faq/manifest.json (from 4writers.net/faq/)
+17:42:04	Error: 	"Not Found" (404) at link 4writers.net/faq/files/icons/icon-192x192.png (from 4writers.net/faq/)
+17:42:04	Warning: 	Link https://4writers.net/blog/page/2/ not scanned (follow robots meta tag)
+17:42:19	Warning: 	Link https://4writers.net/blog/page/3/ not scanned (follow robots meta tag)
+17:42:19	Warning: 	Link https://4writers.net/blog/page/19/ not scanned (follow robots meta tag)
+17:42:19	Error: 	"Not Found" (404) at link 4writers.net/photos/manifest.json (from 4writers.net/photos/)
+17:42:19	Error: 	"Not Found" (404) at link 4writers.net/photos/files/icons/icon-192x192.png (from 4writers.net/photos/)
+17:42:19	Error: 	"Not Found" (404) at link 4writers.net/feedbacks/manifest.json (from 4writers.net/feedbacks/)
+17:42:19	Error: 	"Not Found" (404) at link 4writers.net/feedbacks/files/icons/icon-192x192.png (from 4writers.net/feedbacks/)
+17:42:23	Error: 	"Not Found" (404) at link 4writers.net/employees/manifest.json (from 4writers.net/employees/)
+17:42:23	Error: 	"Not Found" (404) at link 4writers.net/employees/files/icons/icon-192x192.png (from 4writers.net/employees/)
+17:42:23	Warning: 	Moved Permanently for 4writers.net/feedback/
+17:42:23	Warning: 	File has moved from 4writers.net/feedback/ to http://4writers.net/feedbacks/
+17:42:23	Warning: 	Moved Permanently for https://4writers.net/blog/?p=1180
+17:42:23	Warning: 	File has moved from https://4writers.net/blog/?p=1180 to https://4writers.net/blog/tips-on-how-to-write-the-content-professionally/
+17:42:23	Warning: 	Moved Permanently for https://4writers.net/blog/?p=1099
+17:42:23	Warning: 	File has moved from https://4writers.net/blog/?p=1099 to https://4writers.net/blog/7-reasons-for-choosing-a-company-when-being-a-freelancer/
+17:42:23	Warning: 	Moved Permanently for https://4writers.net/blog/?p=790
+17:42:23	Warning: 	File has moved from https://4writers.net/blog/?p=790 to https://4writers.net/blog/the_best_time_to_be_a_freelance_writer/
+17:42:23	Warning: 	Moved Permanently for https://4writers.net/blog/?p=789
+17:42:23	Warning: 	File has moved from https://4writers.net/blog/?p=789 to https://4writers.net/blog/taking_pleasure_from_a_freelance_writing_project/
+17:42:23	Warning: 	Moved Permanently for https://4writers.net/blog/?p=787
+17:42:23	Warning: 	File has moved from https://4writers.net/blog/?p=787 to https://4writers.net/blog/qualities_of_a_successful_freelance_writer/
+17:42:23	Warning: 	Moved Permanently for https://4writers.net/blog/?p=786
+17:42:23	Warning: 	File has moved from https://4writers.net/blog/?p=786 to https://4writers.net/blog/a_question_about_freelance_writing_income/
+17:42:23	Warning: 	Moved Permanently for https://4writers.net/blog/?p=785
+17:42:23	Warning: 	File has moved from https://4writers.net/blog/?p=785 to https://4writers.net/blog/getting_the_hang_of_your_freelance_writing_career/
+17:42:23	Warning: 	Moved Permanently for https://4writers.net/blog/?p=782
+17:42:23	Warning: 	File has moved from https://4writers.net/blog/?p=782 to https://4writers.net/blog/freelance_writing_is_it_the_career_for_me/
+17:43:09	Warning: 	Moved Permanently for https://4writers.net/blog/?p=900
+17:43:09	Warning: 	File has moved from https://4writers.net/blog/?p=900 to https://4writers.net/blog/5-insights-successful-freelance-writer/
+17:43:09	Warning: 	Moved Permanently for https://4writers.net/blog/?p=933
+17:43:09	Warning: 	File has moved from https://4writers.net/blog/?p=933 to https://4writers.net/blog/how-writing-essays-makes-my-life-more-interesting-every-day/
+17:43:09	Warning: 	Moved Permanently for https://4writers.net/blog/?p=1049
+17:43:09	Warning: 	File has moved from https://4writers.net/blog/?p=1049 to https://4writers.net/blog/freelance-writing-for-and-against/
+17:43:09	Warning: 	Moved Permanently for https://4writers.net/blog/?p=1102
+17:43:09	Warning: 	File has moved from https://4writers.net/blog/?p=1102 to https://4writers.net/blog/how-to-receive-positive-customer-feedback/
+17:43:09	Warning: 	Moved Permanently for https://4writers.net/blog/?p=1116
+17:43:09	Warning: 	File has moved from https://4writers.net/blog/?p=1116 to https://4writers.net/blog/how-to-avoid-a-burnout-if-you-write-much/
+17:43:09	Warning: 	Moved Permanently for https://4writers.net/blog/?p=1113
+17:43:09	Warning: 	File has moved from https://4writers.net/blog/?p=1113 to https://4writers.net/blog/6-challenges-a-new-freelance-writer-may-face/
+17:43:09	Warning: 	Moved Permanently for https://4writers.net/blog/?p=819
+17:43:09	Warning: 	File has moved from https://4writers.net/blog/?p=819 to https://4writers.net/blog/my_freelance_writing_journey/
+17:43:09	Warning: 	Moved Permanently for https://4writers.net/blog/?p=816
+17:43:09	Warning: 	File has moved from https://4writers.net/blog/?p=816 to https://4writers.net/blog/working_hard_has_always_been_the_key_to_success/
+17:43:09	Warning: 	Moved Permanently for https://4writers.net/blog/?p=815
+17:43:09	Warning: 	File has moved from https://4writers.net/blog/?p=815 to https://4writers.net/blog/becoming_a_full-time_freelance_writer_from_being_part-time/
+17:43:09	Warning: 	Moved Permanently for https://4writers.net/blog/?p=814
+17:43:09	Warning: 	File has moved from https://4writers.net/blog/?p=814 to https://4writers.net/blog/writing_those_science_papers/
+17:43:09	Warning: 	Moved Permanently for https://4writers.net/blog/?p=812
+17:43:09	Warning: 	File has moved from https://4writers.net/blog/?p=812 to https://4writers.net/blog/what_comes_after_starting_a_career_as_a_freelance_writer/
+17:43:09	Warning: 	Moved Permanently for https://4writers.net/blog/?p=811
+17:43:09	Warning: 	File has moved from https://4writers.net/blog/?p=811 to https://4writers.net/blog/dealing_with_revisions_as_a_freelance_writer/
+17:43:09	Warning: 	Moved Permanently for https://4writers.net/blog/?p=808
+17:43:09	Warning: 	File has moved from https://4writers.net/blog/?p=808 to https://4writers.net/blog/p_ignore_doubts_to_achieve_success_p/
+17:43:09	Warning: 	Moved Permanently for https://4writers.net/blog/?p=1193
+17:43:09	Warning: 	File has moved from https://4writers.net/blog/?p=1193 to https://4writers.net/blog/the-ways-to-begin-the-concluding-paragraph/
+17:43:09	Warning: 	Moved Permanently for https://4writers.net/blog/?p=1187
+17:43:09	Warning: 	File has moved from https://4writers.net/blog/?p=1187 to https://4writers.net/blog/advice-on-how-to-proofread-the-work-you-have-written/
+17:43:09	Warning: 	Moved Permanently for https://4writers.net/blog/?p=1175
+17:43:09	Warning: 	File has moved from https://4writers.net/blog/?p=1175 to https://4writers.net/blog/how-to-structure-an-expository-essay-properly/
+17:43:09	Warning: 	Moved Permanently for https://4writers.net/blog/?p=1170
+17:43:09	Warning: 	File has moved from https://4writers.net/blog/?p=1170 to https://4writers.net/blog/how-to-write-an-excellent-argumentative-essay/
+17:43:09	Warning: 	Moved Permanently for https://4writers.net/blog/?p=915
+17:43:09	Warning: 	File has moved from https://4writers.net/blog/?p=915 to https://4writers.net/blog/challenges-writers-face-while-writing/
+17:43:09	Warning: 	Moved Permanently for https://4writers.net/blog/?p=905
+17:43:09	Warning: 	File has moved from https://4writers.net/blog/?p=905 to https://4writers.net/blog/time-management-as-a-key-point-for-successful-essay-writing/
+17:43:09	Warning: 	Moved Permanently for https://4writers.net/blog/?p=1059
+17:43:09	Warning: 	File has moved from https://4writers.net/blog/?p=1059 to https://4writers.net/blog/writing-can-be-fun-tips-to-boost-your-desire-to-write/
+17:43:09	Warning: 	Moved Permanently for https://4writers.net/blog/?p=1044
+17:43:09	Warning: 	File has moved from https://4writers.net/blog/?p=1044 to https://4writers.net/blog/why-being-a-freelance-writer-is-a-good-option/
+17:43:09	Warning: 	Moved Permanently for https://4writers.net/blog/?p=918
+17:43:09	Warning: 	File has moved from https://4writers.net/blog/?p=918 to https://4writers.net/blog/how-to-use-your-writing-talent-to-earn-money/
+17:43:09	Warning: 	Moved Permanently for https://4writers.net/blog/?p=861
+17:43:09	Warning: 	File has moved from https://4writers.net/blog/?p=861 to https://4writers.net/blog/getting_extra_income_with_freelance_writing/
+17:43:09	Warning: 	Moved Permanently for https://4writers.net/blog/?p=2682
+17:43:09	Warning: 	File has moved from https://4writers.net/blog/?p=2682 to https://4writers.net/blog/a-good-introduction-is-vastly-important-in-academic-writing/
+17:43:14	Warning: 	Moved Permanently for https://4writers.net/blog/?p=2638
+17:43:14	Warning: 	File has moved from https://4writers.net/blog/?p=2638 to https://4writers.net/blog/effective-transition-terms-in-academic-papers/
+17:43:19	Warning: 	Moved Permanently for https://4writers.net/blog/?p=2622
+17:43:19	Warning: 	File has moved from https://4writers.net/blog/?p=2622 to https://4writers.net/blog/writing-a-peer-response-efficient-tips-and-suggestions/
+17:43:19	Warning: 	Moved Permanently for https://4writers.net/blog/?p=2582
+17:43:19	Warning: 	File has moved from https://4writers.net/blog/?p=2582 to https://4writers.net/blog/the-importance-of-spelling-boost-your-writing-talent/
+17:43:19	Warning: 	Moved Permanently for https://4writers.net/blog/?p=2542
+17:43:19	Warning: 	File has moved from https://4writers.net/blog/?p=2542 to https://4writers.net/blog/an-annotated-bibliography-and-a-literature-review/
+17:43:19	Warning: 	Moved Permanently for https://4writers.net/blog/?p=2522
+17:43:19	Warning: 	File has moved from https://4writers.net/blog/?p=2522 to https://4writers.net/blog/how-to-choose-the-best-sources-for-your-paper/
+17:43:19	Warning: 	Moved Permanently for https://4writers.net/blog/?p=2498
+17:43:19	Warning: 	File has moved from https://4writers.net/blog/?p=2498 to https://4writers.net/blog/how-to-write-a-good-outline-for-an-academic-paper/
+17:43:22	Warning: 	Moved Permanently for https://4writers.net/blog/?p=1241
+17:43:22	Warning: 	File has moved from https://4writers.net/blog/?p=1241 to https://4writers.net/blog/5-reasons-why-proofreading-is-a-necessary-component-of-academic-writing/
+17:43:22	Warning: 	Moved Permanently for https://4writers.net/blog/?p=1062
+17:43:22	Warning: 	File has moved from https://4writers.net/blog/?p=1062 to https://4writers.net/blog/how-to-write-an-annotated-bibliography/
+17:43:22	Error: 	"Not Found" (404) at link 4writers.net/feedbacks/page2/manifest.json (from 4writers.net/feedbacks/page2/)
+17:43:22	Error: 	"Not Found" (404) at link 4writers.net/feedbacks/page2/files/icons/icon-192x192.png (from 4writers.net/feedbacks/page2/)
+17:43:22	Error: 	"Not Found" (404) at link 4writers.net/feedbacks/page3/manifest.json (from 4writers.net/feedbacks/page3/)
+17:43:22	Error: 	"Not Found" (404) at link 4writers.net/feedbacks/page3/files/icons/icon-192x192.png (from 4writers.net/feedbacks/page3/)
+17:43:22	Error: 	"Not Found" (404) at link 4writers.net/feedbacks/page4/manifest.json (from 4writers.net/feedbacks/page4/)
+17:43:22	Error: 	"Not Found" (404) at link 4writers.net/feedbacks/page4/files/icons/icon-192x192.png (from 4writers.net/feedbacks/page4/)
+17:43:22	Error: 	"Not Found" (404) at link 4writers.net/feedbacks/page5/manifest.json (from 4writers.net/feedbacks/page5/)
+17:43:22	Error: 	"Not Found" (404) at link 4writers.net/feedbacks/page5/files/icons/icon-192x192.png (from 4writers.net/feedbacks/page5/)
+17:43:22	Warning: 	Moved Permanently for https://4writers.net/blog/?p=2470
+17:43:22	Warning: 	File has moved from https://4writers.net/blog/?p=2470 to https://4writers.net/blog/guidelines-on-proper-citation-in-academic-writing/
+17:43:31	Warning: 	Moved Permanently for https://4writers.net/blog/?p=2446
+17:43:31	Warning: 	File has moved from https://4writers.net/blog/?p=2446 to https://4writers.net/blog/objective-writing-professional-guidelines-and-tips/
+17:43:52	Warning: 	Moved Permanently for https://4writers.net/blog/?p=2426
+17:43:52	Warning: 	File has moved from https://4writers.net/blog/?p=2426 to https://4writers.net/blog/standards-of-academic-writing-effective-paragraphs/
+17:44:01	Warning: 	Moved Permanently for https://4writers.net/blog/?p=2406
+17:44:01	Warning: 	File has moved from https://4writers.net/blog/?p=2406 to https://4writers.net/blog/effective-use-of-common-tenses-in-academic-writing/
+17:44:01	Warning: 	Moved Permanently for https://4writers.net/blog/?p=2382
+17:44:01	Warning: 	File has moved from https://4writers.net/blog/?p=2382 to https://4writers.net/blog/the-difference-between-the-active-and-passive-voice/
+17:44:01	Warning: 	Moved Permanently for https://4writers.net/blog/?p=2362
+17:44:01	Warning: 	File has moved from https://4writers.net/blog/?p=2362 to https://4writers.net/blog/concept-maps-for-idea-visualization-and-creating-relations/
+17:44:01	Warning: 	Moved Permanently for https://4writers.net/blog/?p=2342
+17:44:01	Warning: 	File has moved from https://4writers.net/blog/?p=2342 to https://4writers.net/blog/how-to-write-a-perfect-personal-response-essay/
+17:44:01	Warning: 	Moved Permanently for https://4writers.net/blog/?p=938
+17:44:01	Warning: 	File has moved from https://4writers.net/blog/?p=938 to https://4writers.net/blog/how-to-structure-your-essay-properly/
+17:44:01	Warning: 	Moved Permanently for https://4writers.net/blog/?p=1203
+17:44:01	Warning: 	File has moved from https://4writers.net/blog/?p=1203 to https://4writers.net/blog/tips-for-simplifying-your-message/
+17:44:01	Warning: 	Moved Permanently for https://4writers.net/blog/?p=1630
+17:44:01	Warning: 	File has moved from https://4writers.net/blog/?p=1630 to https://4writers.net/blog/handy-tips-on-how-to-write-an-argumentative-essay/
+17:44:01	Warning: 	Moved Permanently for https://4writers.net/blog/?p=1084
+17:44:01	Warning: 	File has moved from https://4writers.net/blog/?p=1084 to https://4writers.net/blog/how-to-learn-academic-citation-styles-quickly/
+17:44:01	Warning: 	Moved Permanently for https://4writers.net/blog/?p=2278
+17:44:01	Warning: 	File has moved from https://4writers.net/blog/?p=2278 to https://4writers.net/blog/avoiding-bias-in-writing-essentials/
+17:44:01	Warning: 	Moved Permanently for https://4writers.net/blog/?p=1022
+17:44:01	Warning: 	File has moved from https://4writers.net/blog/?p=1022 to https://4writers.net/blog/topic-sentence-a-plan-for-writing/
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 minutes 47 seconds : 639 links scanned, 552 files written (31135112 bytes overall) [31409034 bytes received at 33166 bytes/sec], 100879 bytes transferred using HTTP compression in 1 files, ratio 25%, 2.4 requests per connection
+(30 errors, 115 warnings, 0 messages)

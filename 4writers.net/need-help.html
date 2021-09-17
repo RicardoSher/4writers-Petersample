@@ -1,0 +1,26 @@
+<div class="need-help">
+ <div class="container">
+  <div class="row">
+   <div class="col-md-12 col-sm-12 col-xs-12">
+    <div class="need-help-block">
+     <div class="help-pic">
+      <img src="files/images/theme/need-help-pic.png">
+     </div>
+     <h5>Need assistance with some text? We can help you!</h5>
+     <p>We have a team of skilled and experienced writers who can help you with any type of writing! No matter if you are a single customer or a big company, we will gladly assist you with completing all your writing tasks. Simply fill in our form below and our Customer Support team will contact you within the next 12 hours.</p>
+     <form action="http://4writers.net/need-help.php" method="post" onsubmit="return submit_form(this, $('need-help-container'))">
+      <input type="hidden" name="action" value="send" />
+      <div class="form-inline-input-group">
+       <input class="input-first-n" type="text" name="firstname" placeholder="First name">
+       <input class="input-last-n" type="text" name="lastname" placeholder="Last name">
+       <input class="input-email" type="text" name="email" placeholder="Email">
+       <input class="input-telephone" type="text" name="phone" placeholder="Telephone">
+      </div>
+      <textarea class="input-request" name="message" placeholder="Request"></textarea>
+      <button type="submit" id="request-button">Send request</button>
+     </form>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
